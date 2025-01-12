@@ -28,5 +28,5 @@
 - **Результат:** DataFrame с пользователями, чьи компании содержат "Group" в названии.
 
 
-![Скриншот программы](PythonforDS_exam/images/Screenshot_1.png)
+![Скриншот программы](PythonforDS_exam/Screenshot_1.png)
 
