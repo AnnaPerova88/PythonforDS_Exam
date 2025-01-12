@@ -27,3 +27,5 @@
 - **API:** [JSONPlaceholder Users API](https://jsonplaceholder.typicode.com/users).
 - **Результат:** DataFrame с пользователями, чьи компании содержат "Group" в названии.
 
+![График](1_screenshot.png)
+
